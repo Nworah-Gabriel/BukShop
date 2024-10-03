@@ -1,2 +1,0 @@
-# BukShop
-A decentralized bookshop
